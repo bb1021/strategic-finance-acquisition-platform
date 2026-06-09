@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.streamlit/
+.venv/
+venv/
+.env
+*.pyc
+reports/*.md
+reports/*.txt

@@ -2,7 +2,7 @@
 
 Institutional-style strategic finance platform for acquisition screening, financial due diligence, scenario modelling, post-M&A integration planning and AI-assisted board memo generation.
 
-![Strategic Finance Platform Dashboard](docs/screenshots/hero-dashboard.png)
+![Strategic Finance Platform Dashboard](docs/hero-dashboard.png)
 
 ## Why This Project Matters
 

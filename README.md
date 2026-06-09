@@ -20,6 +20,14 @@ High-growth technology acquirers need finance teams that can move from ambiguous
 - Markdown and text memo exports
 - Dark institutional dashboard UI for strategic finance workflows
 
+## Run Locally
+
+```bash
+git clone https://github.com/bb1021/strategic-finance-acquisition-platform.git
+cd strategic-finance-acquisition-platform
+pip install -r requirements.txt
+streamlit run app.py
+
 ## Architecture
 
 ```text
